@@ -1,13 +1,4 @@
 import pygame
-## este es mi codigo de player que le hice hace unos dias adaptale con lo que tienes para yo ver los cambios
-
-
-# como subir los cambios
-
-# en tu caso hay dos formas cuando editas un documento con un manejador de versiones en este caso
-#github te sale estas lineas
-# <- la verde es contenido nuevo, azul contenido modificado mmm espera mejor te llamo sjjsjs
-
 
 class Player:
   def __init__(self, name: str, level: int = 1):
